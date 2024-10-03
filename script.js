@@ -1,3 +1,3 @@
 function alertUser() {
-  alert("树神，你好帅！！！");
+  alert("爱黄金..还是爱黄如熹?!!");
 }
